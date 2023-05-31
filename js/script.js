@@ -11,7 +11,7 @@ const emails = [
 console.table(emails);
 let greet = "";
 // PROMPT EMAIL UTENTE
-let email = prompt("qual'è la tua email?", "pippo@yahoo.com").trim();
+//let email = prompt("qual'è la tua email?", "pippo@yahoo.com").trim();
 console.log(email);
 // FASE 1
 // CICLO CHE CONTROLLA
